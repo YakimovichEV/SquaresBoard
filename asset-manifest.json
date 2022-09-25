@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SquaresBoard/static/css/main.c64b8e69.css",
+    "main.js": "/SquaresBoard/static/js/main.ad473a62.js",
+    "index.html": "/SquaresBoard/index.html",
+    "main.c64b8e69.css.map": "/SquaresBoard/static/css/main.c64b8e69.css.map",
+    "main.ad473a62.js.map": "/SquaresBoard/static/js/main.ad473a62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64b8e69.css",
+    "static/js/main.ad473a62.js"
+  ]
+}
