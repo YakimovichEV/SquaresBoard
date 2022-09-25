@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.content {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 auto;
+}
+
+.content__log {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 100vh;
+    gap: 70px;
+    margin-top: 30px;
+}
+
+.content__list {
+    width: 200px;
+    height: 500px;
+    overflow-y: auto;
+}
+
+.content__item {
+    font-weight: bold;
+    padding: 15px 10px;
+    border-radius: 8px;
+    background-color: #fbf8e3;
+    color: #896d3a;
+    margin-top: 5px;
+}
